@@ -5,4 +5,4 @@
 - [Seção 03 - Técnica 02](https://github.com/romulovieira777/Acelere_sua_aprendizagem_no_Ingles_com_4_tecnicas/tree/main/Section_03_Tecnica_02)
 - [Seção 04 - Técnica 03](https://github.com/romulovieira777/Acelere_sua_aprendizagem_no_Ingles_com_4_tecnicas/tree/main/Section_04_Tecnica_03)
 
-Link to the course: [Udemy](https://www.udemy.com/course/4-tecnicas-para-aprender-ingles-de-forma-muito-rapida/)
+Link para o Curso: [Udemy](https://www.udemy.com/course/4-tecnicas-para-aprender-ingles-de-forma-muito-rapida/)
